@@ -1,10 +1,10 @@
 # Whole Foods Market Retail Strategy Revamp in India
 
 ## Project Overview
-Whole Foods Market, a multinational company, is looking to revamp their retail strategy in India. As a newly hired Data Analyst, you have been assigned to provide analytical support to the business in making these critical decisions. Your role involves analyzing data related to orders placed at various locations in India, customer information, and returns.
+Whole Foods Market, a multinational company, is looking to revamp their retail strategy in India. As a Data Analyst, I have been assigned to provide analytical support to the business in making these critical decisions. My role involves analyzing data related to orders placed at various locations in India, customer information, and returns.
 
 ## Data Description
-The data has been loaded into a MySQL database and consists of the following tables:
+The data has been loaded into a MySQL and SQL Server database and consists of the following tables:
 
 ### `orders` Table
 - **Order_ID** (VARCHAR): Primary key for each order placed
@@ -32,4 +32,4 @@ The data has been loaded into a MySQL database and consists of the following tab
 - **Returned** (VARCHAR): Indicates if the order was returned or not
 
 ## Objective
-Your objective is to write SQL queries to analyze the provided data and provide valuable insights to Whole Foods Market. These insights will help the company make informed decisions to revamp their retail strategy in India.
+Objective is to write SQL queries to analyze the provided data and provide valuable insights to Whole Foods Market. These insights will help the company make informed decisions to revamp their retail strategy in India.
